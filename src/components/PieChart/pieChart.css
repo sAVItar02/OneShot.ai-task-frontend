@@ -1,0 +1,20 @@
+.chartContainer {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.chartSection {
+  width: 100%;
+  min-height: 540px;
+  background-color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #707070;
+}

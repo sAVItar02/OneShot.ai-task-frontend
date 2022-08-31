@@ -1,0 +1,92 @@
+.collegeSection, .similar, .studentsSection, .studentSection {
+    width: 100%;
+    min-height: fit-content;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+.main-head, .college, .student {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(192, 192, 192);
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+
+.head {
+    font-weight: 700;
+    color: #707070;
+    width: 20%;
+    padding-left: 10px;
+}
+
+.college, .student {
+    padding: 15px 0;
+    cursor: pointer;
+    transition: 0.15s;
+    padding-left: 10px;
+}
+
+.college:hover, .student:hover {
+    background-color: #e0eaef;
+}
+
+.college-field {
+    width: 20%;
+}
+
+.similar-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.similar-heading {
+    font-weight: 700;
+    color: #707070;
+}
+
+.back-button {
+    padding: 10px 15px;
+    background-color: #059bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.2s;
+}
+
+.back-button:hover {
+    background-color: #088de6;
+}
+
+.student-head {
+    font-size: 18px;
+    font-weight: 600;
+    color: #707070;
+    padding: 10px 15px;
+    display: inline-block;
+    margin: 10px 10px;
+    background-color: #e0eaef;
+    border-radius: 5px;
+}
+
+.student-info {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.skill {
+    margin: 0 5px;
+    padding: 5px 10px;
+    background-color: #ff4069;
+    color: #FFF;
+    border-radius: 5px;
+}
