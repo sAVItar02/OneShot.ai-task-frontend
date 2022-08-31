@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OneShot.ai-task-frontend/static/css/main.699d1369.css",
+    "main.js": "/OneShot.ai-task-frontend/static/js/main.76921be8.js",
+    "index.html": "/OneShot.ai-task-frontend/index.html",
+    "main.699d1369.css.map": "/OneShot.ai-task-frontend/static/css/main.699d1369.css.map",
+    "main.76921be8.js.map": "/OneShot.ai-task-frontend/static/js/main.76921be8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.699d1369.css",
+    "static/js/main.76921be8.js"
+  ]
+}
